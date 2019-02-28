@@ -1,0 +1,25 @@
+{
+  "name": "sawvi",
+  "version": "0.0.1",
+  "description": "Simple numbers game",
+  "main": "numberme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgiobairog/sawVI.git"
+  },
+  "author": "jason@wilsons.io <Jason Wilson>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sgiobairog/sawVI/issues"
+  },
+  "homepage": "https://github.com/sgiobairog/sawVI#readme",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "pick-random": "^2.0.0",
+    "prompt": "^1.0.0",
+    "random": "^2.1.1"
+  }
+}
