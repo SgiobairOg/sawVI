@@ -1,6 +1,6 @@
 # Guess the Number
 
-Written for @shackbarth's Sharpen Your Saw VI exercise from @norfolkjs
+Written for [@shackbarth](https://github.com/shackbarth)'s Sharpen Your Saw VI exercise from [@norfolkjs](https://github.com/norfolkjs)
 
 For a quick start, run `node numberme.js`.
 
