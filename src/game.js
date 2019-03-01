@@ -98,8 +98,6 @@ class Game {
       }
     }
 
-    console.log(score.perfect, this.digitCount);
-
     if (score.perfect === this.digitCount) {
       console.log(
         `Good guess! You got it! The number was ${this.secretNumber}`
